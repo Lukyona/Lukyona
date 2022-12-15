@@ -1,12 +1,12 @@
-### Hi there 👋
 
-#### My Blog (일기처럼 적은 것이기 때문에 주로 음슴체를 사용한 점 양해 부탁드립니다.)
+
+### My Blog (일기처럼 적은 것이기 때문에 주로 음슴체를 사용한 점 양해 부탁드립니다.)
 https://lukyona.github.io/
 
-#### My Unreal Project 
+### My Unreal Project 
 https://github.com/Lukyona/MagicRPG
 
-#### My Unity Project 
+### My Unity Project 
 (3D)
 https://github.com/Lukyona/Adventure_Of_Popo
 
@@ -14,7 +14,12 @@ https://github.com/Lukyona/Adventure_Of_Popo
 https://github.com/Lukyona/DollCafe
 
 
-##### 제 이력서를 보시는 인사담당자님들께 드리는 솔직한 심정
+
+
+
+
+
+#### 제 이력서를 보시는 인사담당자님들께 드리는 솔직한 심정
 요 며칠간 이력서를 작성해보며 깨달은 것이 있습니다. 제가 정말로 취업할 준비가 안 되어있는 것 같더군요..
 주 언어로 C++를 사용하지만 그리 능숙한 수준도 아닐 뿐더러 복습을 하지 않아 CS지식도 부족합니다.
 소규모 게임을 3개정도 만들었지만 직접 부딪히고 개발하면서 간간이 지식을 습득했었습니다.
