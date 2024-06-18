@@ -14,7 +14,7 @@ https://github.com/Lukyona/MagicRPG/tree/main/Source/Yaro
 https://github.com/Lukyona/Adventure_Of_Popo
 
 #### 1. 2D 시뮬레이션 장난감카페 코스모스 Source Code
-https://github.com/Lukyona/DollCafe
+[https://github.com/Lukyona/DollCafe](https://github.com/Lukyona/DollCafe/tree/main/Assets/Script)
 
 
 
