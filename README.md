@@ -6,14 +6,14 @@ https://lukyona.github.io/
 
 
 ### My Unreal Project 
-#### 1. Otro Mundo (Magic RPG) Source Code
+#### 1. 3D 싱글 RPG 오트로문도 (Magic RPG) Source Code
 https://github.com/Lukyona/MagicRPG/tree/main/Source/Yaro
 
 ### My Unity Project 
 (3D)
 https://github.com/Lukyona/Adventure_Of_Popo
 
-(2D)
+#### 1. 2D 시뮬레이션 장난감카페 코스모스 Source Code
 https://github.com/Lukyona/DollCafe
 
 
