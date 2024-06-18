@@ -1,7 +1,9 @@
 
 
-### My Blog (일기처럼 적은 것이기 때문에 주로 음슴체를 사용한 점 양해 부탁드립니다.)
+### My Blog
 https://lukyona.github.io/
+
+
 
 ### My Unreal Project 
 https://github.com/Lukyona/MagicRPG
