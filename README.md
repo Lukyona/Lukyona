@@ -10,7 +10,7 @@ https://lukyona.github.io/
 https://github.com/Lukyona/MagicRPG/tree/main/Source/Yaro
 
 #### 2. 3D 턴제 전투 RPG (발더스게이트3 모작) Source Code
-https://github.com/Lukyona/
+https://github.com/Lukyona/TurnBasedRPG/tree/main/Source/TB_Project
 
 ### My Unity Project 
 #### 1. 2D 시뮬레이션 장난감카페 코스모스 Source Code
