@@ -13,10 +13,10 @@ https://github.com/Lukyona/MagicRPG/tree/main/Source/Yaro
 https://github.com/Lukyona/TurnBasedRPG/tree/main/Source/TB_Project
 
 ### My Unity Projects
-#### 1. 2D 시뮬레이션 장난감카페 코스모스 Source Code (리팩토링 중)
+#### 1. 2D 시뮬레이션 장난감카페 코스모스 Source Code
 https://github.com/Lukyona/DollCafe/tree/main/Assets/Script
 
-#### 2. 3D 싱글 RPG 포포의 모험 Source Code (리팩토링 전)
+#### 2. 3D 싱글 RPG 포포의 모험 Source Code (리팩토링 중)
 https://github.com/Lukyona/Adventure_Of_Popo/tree/main/Assets/Scripts
 
 
