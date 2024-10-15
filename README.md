@@ -1,6 +1,6 @@
 
 
-### My Blo
+### My Blog
 ##### (3D 싱글 RPG 개발일지)
 https://lukyona.github.io/
 
