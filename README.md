@@ -4,9 +4,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div  align= "center"> 
-        <h3 style="border-bottom: 1px solid;"> 
-            
-**C++, C#, Unreal Engine, Unity**
+        <h3 style="border-bottom: 1px solid;"> C++, C#, Unreal Engine, Unity
         </h3>
     </div>
 </div>
@@ -20,6 +18,7 @@
 </div>
 
 ## ✨ My Unreal Projects
+![OtroMundo](\Users\Luko\Pictures/OtroMundo_Thumnail.png)
 ### 1. 3D RPG 오트로문도 (Magic RPG) Source Code
 #### https://github.com/Lukyona/MagicRPG/tree/main/Source/Yaro
 ### - Blog(개발일지)
