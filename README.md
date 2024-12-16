@@ -19,13 +19,13 @@
 
 ## ✨ My Unreal Projects
 ### 1. 3D RPG 오트로문도 (Magic RPG) Source Code
-![OtroMundo_Thumnail](https://github.com/user-attachments/assets/112368b8-fa53-4036-b0de-ecbec06289e3)
+![OtroMundoThumnail](https://github.com/user-attachments/assets/d7be65a9-b301-4077-9ae9-d7f53ed10420)
 #### https://github.com/Lukyona/MagicRPG/tree/main/Source/Yaro
 ### - Blog(개발일지)
 #### https://lukyona.github.io/
 
 ### 2. 3D 턴제 전투 시스템 (발더스게이트3 스타일) Source Code
-![TurnBased_Thumnail](https://github.com/user-attachments/assets/8be89443-f69e-4709-ab93-0439a7ad3785)
+![TBThumnail](https://github.com/user-attachments/assets/7450da7d-d348-472c-a672-6b9b5339b04a)
 #### https://github.com/Lukyona/TurnBasedRPG/tree/main/Source/TB_Project
 
 <div>
