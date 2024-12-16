@@ -1,26 +1,29 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00660c&height=180&text=Hello,%20I'm%20Sujeong!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div style="text-align: left;">
+</div>
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center">
-    ## C++, C#, Unreal Enigne, Unity
-    </div>
-    <div style="text-align: left;">
+    <div  align= "center"> </div>
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  C++, C#, Unreal Enigne, Unity </h3>
+</div>
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d"> </a>
-              ### **sksmstnwjd1@naver.com**
-          </div>  <br> 
-
-### My Blog
-##### (3D 싱글 RPG 개발일지)
-https://lukyona.github.io/
+</div>
+<div align= "center">
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> sksmstnwjd1@naver.com </h3> <br> 
+    <a href=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d"> </a>
+</div>  <br> 
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Projects </h2> <br> 
+</div>
 
 
 
 ### My Unreal Projects
 #### 1. 3D 싱글 RPG 오트로문도 (Magic RPG) Source Code
 https://github.com/Lukyona/MagicRPG/tree/main/Source/Yaro
+#### Blog(개발일지)
+https://lukyona.github.io/
 
 #### 2. 3D 턴제 전투 시스템 (발더스게이트3 스타일) Source Code
 https://github.com/Lukyona/TurnBasedRPG/tree/main/Source/TB_Project
@@ -31,8 +34,6 @@ https://github.com/Lukyona/DollCafe/tree/main/Assets/Script
 
 #### 2. 3D 싱글 RPG 포포의 모험 Source Code
 https://github.com/Lukyona/Adventure_Of_Popo/tree/main/Assets/Scripts
-
-
 
 
 <!--
