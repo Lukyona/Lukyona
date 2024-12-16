@@ -7,10 +7,10 @@ https://lukyona.github.io/
 
 
 ### My Unreal Projects
-#### 1. 3D 싱글 RPG 오트로문도 (Magic RPG) Source Code (언리얼 코딩 표준 스타일 적용)
+#### 1. 3D 싱글 RPG 오트로문도 (Magic RPG) Source Code
 https://github.com/Lukyona/MagicRPG/tree/main/Source/Yaro
 
-#### 2. 3D 턴제 전투 RPG (발더스게이트3 모작) Source Code
+#### 2. 3D 턴제 전투 시스템 (발더스게이트3 스타일) Source Code
 https://github.com/Lukyona/TurnBasedRPG/tree/main/Source/TB_Project
 
 ### My Unity Projects
