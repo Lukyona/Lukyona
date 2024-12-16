@@ -4,11 +4,10 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div  align= "center"> 
-        <h3 style="border-bottom: 1px solid">
-            <span style="color:red">C++, </span> 
-            <span style="color:red">C#, </span> 
-            <span style="color:red">Unreal Enigne, </span> 
-            <span style="color:red">Unity </span> 
+        <h3 style="border-bottom: 1px solid; color: #00189b;"> C++, </h3>
+        <h3 style="border-bottom: 1px solid; color: #ffffff;">  C#, </h3>
+        <h3 style="border-bottom: 1px solid; color: #000000;"> Unreal Enigne, </h3>
+        <h3 style="border-bottom: 1px solid; color: #000000;"> Unity </h3>
         </h3>
     </div>
 </div>
