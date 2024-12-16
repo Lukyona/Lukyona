@@ -5,10 +5,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div  align= "center"> 
         <h3 style="border-bottom: 1px solid">
-            <font color="#00117c">C++, </font> 
-            <font color="white">C#, </font> 
-            <font color="#000000">Unreal Enigne </font> 
-            <font color="#000000">Unity </font> 
+            <span style="color:red">C++, </span> 
+            <span style="color:red">C#, </span> 
+            <span style="color:red">Unreal Enigne, </span> 
+            <span style="color:red">Unity </span> 
         </h3>
     </div>
 </div>
