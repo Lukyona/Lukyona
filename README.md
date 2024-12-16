@@ -4,6 +4,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div  align= "center"> 
+        <span style="color:blue">some *blue* text</span>
         <h3 style="border-bottom: 1px solid; color: Navy;"> C++, </h3>
         <h3 style="border-bottom: 1px solid; color: Purple;">  C#, </h3>
         <h3 style="border-bottom: 1px solid; color: Black;"> Unreal Enigne, </h3>
