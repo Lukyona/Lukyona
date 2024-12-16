@@ -3,14 +3,13 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> </div>
-        ## C++, C#, Unreal Enigne, Unity
+    <div  align= "center">
+    ## C++, C#, Unreal Enigne, Unity
     </div>
-    ## C++, C#, Unity, Unreal
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    ### **sksmstnwjd1@naver.com**
     <div align= "center"> <a href=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d"> </a>
+              ### **sksmstnwjd1@naver.com**
           </div>  <br> 
 
 ### My Blog
