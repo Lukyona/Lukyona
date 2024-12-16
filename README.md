@@ -1,4 +1,24 @@
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00660c&height=180&text=Hello,%20I'm%20Sujeong!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div  align= "center"> </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">   </div> 
+    </div>
+    
 
 ### My Blog
 ##### (3D 싱글 RPG 개발일지)
