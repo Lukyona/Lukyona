@@ -4,18 +4,17 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div  align= "center"> 
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #00189b;"> C++, </h3>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #8400b5;">  C#, </h3>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #000000;"> Unreal Enigne, </h3>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #000000;"> Unity </h3>
+        <h3 style="border-bottom: 1px solid"> <font color="#00117c">C++, </font></h3>
+        <h3 style="border-bottom: 1px solid">  C#, </h3>
+        <h3 style="border-bottom: 1px solid"> Unreal Enigne, </h3>
+        <h3 style="border-bottom: 1px solid"> Unity </h3>
     </div>
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
 </div>
 <div align= "center">
-    <a href=sksmstnwjd1@naver.com>
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> sksmstnwjd1@naver.com </h3> </a>
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> sksmstnwjd1@naver.com </h3>
     <br> 
     <a href=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d"> </a>
 </div>
