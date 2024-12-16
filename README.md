@@ -4,7 +4,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div  align= "center"> 
-        <h3 style="border-bottom: 1px solid;"> C++, C#, Unreal Engine, Unity
+        <h3 style="border-bottom: 1px solid;"> C++    C#    Unreal Engine    Unity
         </h3>
     </div>
 </div>
