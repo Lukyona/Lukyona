@@ -22,6 +22,8 @@
 
 ## ✨ My Unreal Projects
 ### 1. 3D RPG 오트로문도 (Magic RPG)
+    <a href=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://nonchalant-screw-b07.notion.site/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d"> </a>
+    
 ![OtroMundoThumnail](https://github.com/user-attachments/assets/d7be65a9-b301-4077-9ae9-d7f53ed10420)
 ### Source Code
 #### https://github.com/Lukyona/MagicRPG/tree/main/Source/Yaro
