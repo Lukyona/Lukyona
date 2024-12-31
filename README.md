@@ -21,17 +21,21 @@
 </div>
 
 ## ✨ My Unreal Projects
-### 1. 3D RPG 오트로문도 (Magic RPG)
+### 1. 3D 턴제 전투 시스템 (발더스게이트3 스타일)
+![TBThumnail](https://github.com/user-attachments/assets/7450da7d-d348-472c-a672-6b9b5339b04a)
+### Project Repository
+#### https://github.com/Lukyona/TurnBasedBattle
+### Source Code
+#### https://github.com/Lukyona/TurnBasedRPG/tree/main/Source/TB_Project
+
+### 2. 3D RPG 오트로문도 (Magic RPG)
 ![OtroMundoThumnail](https://github.com/user-attachments/assets/d7be65a9-b301-4077-9ae9-d7f53ed10420)
+### Project Repository
+#### https://github.com/Lukyona/MagicRPG
 ### Source Code
 #### https://github.com/Lukyona/MagicRPG/tree/main/Source/Yaro
 ### - Blog(개발일지)
 #### https://lukyona.github.io/
-
-### 2. 3D 턴제 전투 시스템 (발더스게이트3 스타일)
-![TBThumnail](https://github.com/user-attachments/assets/7450da7d-d348-472c-a672-6b9b5339b04a)
-### Source Code
-#### https://github.com/Lukyona/TurnBasedRPG/tree/main/Source/TB_Project
 
 <div>
     <br> 
@@ -40,11 +44,15 @@
 ## ✨ My Unity Projects
 ### 1. 2D 시뮬레이션 장난감카페 코스모스
 ![CosmosThumnail](https://github.com/user-attachments/assets/515e696b-cb21-4776-9614-9e073f22f026)
+### Project Repository
+#### https://github.com/Lukyona/DollCafe
 ### Source Code
 #### https://github.com/Lukyona/DollCafe/tree/main/Assets/Script
 
 ### 2. 3D RPG 포포의 모험
 ![PopoThumnail](https://github.com/user-attachments/assets/823503db-04ae-432f-8eee-f778549322fe)
+### Project Repository
+#### https://github.com/Lukyona/Adventure_Of_Popo
 ### Source Code
 #### https://github.com/Lukyona/Adventure_Of_Popo/tree/main/Assets/Scripts
 
