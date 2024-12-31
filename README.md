@@ -17,7 +17,7 @@
 <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> sksmstnwjd1@naver.com </h3>
     <br> 
-    <a href=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d"> </a>
+    <a href=https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=[https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d](https://www.notion.so/Hello-I-m-Sujeong-f14c19863b844a69b79ef6d71c9c112d?pvs=4)"> </a>
 </div>
 
 ## ✨ My Unreal Projects
